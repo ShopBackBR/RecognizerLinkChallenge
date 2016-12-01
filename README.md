@@ -118,3 +118,10 @@ O processo de Pull Request funciona da seguinte maneira:
 ## ATENÇÃO
 
 Não se deve tentar fazer o PUSH diretamente para o branch MASTER!!!
+
+
+
+## BERTONI
+Foi utilizado o framework symfony como base
+Os códigos estão em src/LinkChallengeBundle
+Para rodar os testes: "./vendor/phpunit/phpunit/phpunit src/LinkChallengeBundle/Tests/Helper/"
