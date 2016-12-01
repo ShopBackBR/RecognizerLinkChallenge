@@ -1,0 +1,4 @@
+services:
+#    link_challenge.example:
+#        class: LinkChallengeBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]
