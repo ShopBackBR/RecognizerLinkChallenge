@@ -1,0 +1,3 @@
+link_challenge_homepage:
+    path:     /
+    defaults: { _controller: LinkChallengeBundle:Default:index }
