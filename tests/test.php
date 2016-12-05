@@ -44,7 +44,7 @@ foreach (
     
     $lines = array_map(function($line) {
         return str_getcsv($line);
-    }, file($fp['file']));
+    }, file(__DIR__.'/'.$fp['file']));
     
     
     foreach ($lines as $ln) {
