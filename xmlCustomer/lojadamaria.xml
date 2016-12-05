@@ -1,0 +1,20 @@
+<items>
+<item>
+  <id>12345</id>
+  <title>Produto Legal</title>
+  <price>230.00</price>
+  <link>http://www.lojadamaria.com.br/perfume-the-one-sport-masculino-edt/t/2/campanha_id/+752+</link>
+</item>
+<item>
+  <id>12342</id>
+  <title>Produto Legal tb</title>
+  <price>2320.00</price>
+  <link>http://www.lojadamaria.com.br/perfume-the-one-sport-masculino-edt-asdff/t/2/campanha_id/+752+</link>
+</item>
+<item>
+  <id>123</id>
+  <title>Produto 123</title>
+  <price>2320.00</price>
+  <link>http://www.lojadamaria.com.br/perfume-the-one-sport-masculino/t/2/campanha_id/+752+</link>
+</item>
+</items>
